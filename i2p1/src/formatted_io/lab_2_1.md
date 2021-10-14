@@ -30,5 +30,5 @@ The real number is: 654321
 $ ./a.out
 Input real number, before decimal point: 123
 Input real number, after decimal point: 456
-The real number is: 123
+The real number is: 123.000456
 ```
